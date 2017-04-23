@@ -8,10 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "angular": "1.5.7"
-  },
   "dependencies": {
+    "angular": "1.5.7",
+    "angular-route": "1.5.7",
     "finalhandler": "^1.0.2",
     "serve-static": "^1.12.1"
   }
