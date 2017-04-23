@@ -9,5 +9,5 @@
       controller: TestController,
       controllerAs: "tc"  
     }
-  }
+  })
 })()
